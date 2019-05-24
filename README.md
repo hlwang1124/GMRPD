@@ -10,6 +10,6 @@ https://drive.google.com/file/d/1hvq_0ozBsYDD9Vd0_fl9QLHPje7xap0h/view?usp=shari
 https://drive.google.com/file/d/1Pwuxf0ML3i3tU8uGnemty4K4uN7v0o4i/view?usp=sharing
 https://drive.google.com/file/d/1eW904LKnse4ksKwyYET-WqROOY1nrJm1/view?usp=sharing
 
-RGB images, original depth images, normalized depth images and segmentation labels are stored in "rgb", "depth_u8", "depth_u16" and "label" folder, respectively. The resolution of the images is 1280 x 720 pixels. 
+RGB images, normalized depth images, original depth images and segmentation labels are stored in "rgb", "depth_u8", "depth_u16" and "label" folder, respectively. The resolution of the images is 1280 x 720 pixels. 
 
 Since there exist invalid pixels on both sides of the depth images collected by RealSense D415 Camera, we recommend cropping the images before use.
