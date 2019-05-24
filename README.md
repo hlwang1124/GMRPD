@@ -5,6 +5,7 @@ This is an RGB-D dataset of drivable area and road anomaly segmentation for robo
 There are a total of 3036 RGB-D images with hand-labeled segmentation ground truth, which cover 30 common scenes where robotic wheelchairs usually work (e.g., sidewalks and squares) and 18 different kinds of road anomalies that robotic wheelchairs may encounter in real environments. 
 
 The total dataset is seperated into three small datasets, each of which contains 10 scenes. The link of the dataset is shown as follows,
+
 https://drive.google.com/file/d/1hvq_0ozBsYDD9Vd0_fl9QLHPje7xap0h/view?usp=sharing
 https://drive.google.com/file/d/1Pwuxf0ML3i3tU8uGnemty4K4uN7v0o4i/view?usp=sharing
 https://drive.google.com/file/d/1eW904LKnse4ksKwyYET-WqROOY1nrJm1/view?usp=sharing
