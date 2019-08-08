@@ -13,3 +13,18 @@ https://drive.google.com/file/d/1eW904LKnse4ksKwyYET-WqROOY1nrJm1/view?usp=shari
 RGB images, normalized depth images, original depth images and segmentation labels are stored in "rgb", "depth_u8", "depth_u16" and "label" folder, respectively. The resolution of the images is 1280 x 720 pixels. 
 
 Since there exist invalid pixels on both sides of the depth images collected by RealSense D415 Camera, we recommend cropping the images before use.
+
+Please use this bibtex if you want to cite this repository in your publications:
+```
+@ARTICLE{wang2019self, 
+author={Hengli Wang and Yuxiang Sun and Ming Liu}, 
+journal={{IEEE Robotics and Automation Letters}}, 
+title={{Self-Supervised Drivable Area and Road Anomaly Segmentation using RGB-D Data for Robotic Wheelchairs}}, 
+year={2019}, 
+volume={}, 
+number={}, 
+pages={1-1}, 
+doi={10.1109/LRA.2019.2932874}, 
+ISSN={2377-3766}, 
+month={},}
+```
