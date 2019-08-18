@@ -19,12 +19,12 @@ Please use this bibtex if you want to cite this repository in your publications:
 @ARTICLE{wang2019self, 
 author={Hengli Wang and Yuxiang Sun and Ming Liu}, 
 journal={{IEEE Robotics and Automation Letters}}, 
-title={{Self-Supervised Drivable Area and Road Anomaly Segmentation using RGB-D Data for Robotic Wheelchairs}}, 
+title={{Self-Supervised Drivable Area and Road Anomaly Segmentation Using RGB-D Data For Robotic Wheelchairs}}, 
 year={2019}, 
-volume={}, 
-number={}, 
-pages={1-1}, 
+volume={4}, 
+number={4}, 
+pages={4386-4393}, 
 doi={10.1109/LRA.2019.2932874}, 
 ISSN={2377-3766}, 
-month={},}
+month={Oct},}
 ```
