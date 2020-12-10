@@ -36,6 +36,6 @@ Please use this bibtex if you want to cite this repository in your publications:
   pages={4386-4393}, 
   doi={10.1109/LRA.2019.2932874}, 
   ISSN={2377-3766}, 
-  month={Oct},
+  month={Oct}
 }
 ```
